@@ -2,6 +2,8 @@
 
 \* created using `create-react-app`
 
+**It is absolutely mandatory to use "create-react-app" in order to make this process work. create-react-app uses Webpack bundler under the hood. If you will use Parcel bundler, it would not work.**
+
 # Introduction
 
 In this tutorial, I'll show you how you can create a React app and deploy it to GitHub Pages.
